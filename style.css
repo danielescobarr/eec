@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+.redes-sociales {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.redes-sociales img {
+  width: 40px;
+}
